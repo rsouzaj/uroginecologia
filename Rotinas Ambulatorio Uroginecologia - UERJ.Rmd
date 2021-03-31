@@ -6,14 +6,14 @@ author: Dr. Ricardo José de Souza ^[Coordenador do ambulatório de uroginecolog
   Carneiro/UERJ]
 date: "versão 2021.1"
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: '5'
   html_document:
     df_print: paged
     toc: yes
     toc_depth: 5
     fig_caption: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
 link-citations: yes
 bibliography: references.bib
 csl: elsevier-vancouver.csl
@@ -139,7 +139,7 @@ Os prolapsos serão classificados de acordo com o *Pelvic Organ Quantification S
 
 ![Pontos e medidas do POP-Q; Fonte: Bump, 1996](Figura_1.png){width="450"}
 
-#### **PONTOS DO POP-Q**
+#### **Pontos do POP-Q**
 
 **C:** Cérvix ou Colo; **GH:** Hiato Genital; **PB:** Corpo Perineal; **TVL:** Comprimento Vaginal Total; **D:** Fórnice vaginal posterior (ausente em mulheres histerectomizadas).
 
@@ -167,7 +167,7 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 **TVL (*total vaginal length*)**: comprimento total da vagina, é a medida da maior profundidade da vagina em centímetros, após a redução do prolapso.
 
-#### **CLASSIFICAÇÃO DOS ESTÁGIOS DO PROLAPSO (POP-Q)**
+#### **Estadiamento dos prolapsos (POP-Q)**
 
 +---------+-----------------------------------------------------------------------------------------------------------------------+
 | Estágio | Medidas do POP-Q                                                                                                      |
@@ -183,7 +183,7 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 | IV      | Quando a medida está entre 2 cm do comprimento total da vagina e a sua eversão completa (CTV ± 2cm)                   |
 +---------+-----------------------------------------------------------------------------------------------------------------------+
 
-#### **EXEMPLOS**
+#### **Exemplos**
 
 ![Estadiamento do prolapso genital; Fonte: Madhu, 2018](Figura_2.png){width="350"}
 
@@ -191,7 +191,7 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 ![Medidas com as estruturas pélvicas na posição normal](Posicao_normal.png "Posição normal dos órgãos genitais"){width="525"}
 
-![Medidas no prolapso genital completo](Prolapso%20completo.png "Prolapso genital completo"){width="458"}
+![Medidas no prolapso genital completo](Prolapso%20completo.png "Prolapso genital completo"){width="530"}
 
 \newpage
 
