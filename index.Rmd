@@ -79,7 +79,7 @@ Anamnese;
 
 -   Explicar para a paciente os detalhes da cirurgia indicada e **entregar o consentimento informado** (a paciente deve levar para casa preenchido e assinado pelo médico, em duas vias, e trazer no dia da internação assinado).
 
-![](Figuras/Imagem1.png "Estímulo a doar sangue"){width="210" height="123"}
+![](Figuras/Imagem1.png "Estímulo a doar sangue"){width="181" height="86"}
 
 #### **Durante a internação cirúrgica**
 
@@ -189,21 +189,27 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 ![Estadiamento do prolapso genital; Fonte: Madhu, 2018](Figuras/figura_3.png)
 
-![Medidas com as estruturas pélvicas na posição normal](Figuras/Posicao_normal.png "Posição normal dos órgãos genitais")
+![Medidas com as estruturas pélvicas na posição normal](Figuras/Posicao_normal.png "Posição normal dos órgãos genitais"){width="552"}
 
-![Medidas no prolapso genital completo](Figuras/Prolapso%20completo.png "Prolapso genital completo")
+![Medidas no prolapso genital completo](Figuras/Prolapso%20completo.png "Prolapso genital completo"){width="546"}
 
 \newpage
 
 #### **Avaliação funcional do assoalho pélvico**
 
++------+-------------------------------------------------------------------------+
 | Grau | Função                                                                  |
-|:----:|:------------------------------------------------------------------------|
++:====:+:========================================================================+
 | ZERO | Sem função, nem mesmo à palpação                                        |
-|  1   | Função objetiva ausente, reconhecida somente à palpação                 |
-|  2   | Função objetiva débil, reconhecida à palpação                           |
-|  3   | Função objetiva e resistência opositora, não mantida à palpação         |
-|  4   | Função objetiva e resistência mantida à palpação por mais de 5 segundos |
++------+-------------------------------------------------------------------------+
+| 1    | Função objetiva ausente, reconhecida somente à palpação                 |
++------+-------------------------------------------------------------------------+
+| 2    | Função objetiva débil, reconhecida à palpação                           |
++------+-------------------------------------------------------------------------+
+| 3    | Função objetiva e resistência opositora, não mantida à palpação         |
++------+-------------------------------------------------------------------------+
+| 4    | Função objetiva e resistência mantida à palpação por mais de 5 segundos |
++------+-------------------------------------------------------------------------+
 
 ### **TERMINOLOGIA**
 

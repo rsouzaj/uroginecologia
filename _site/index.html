@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Dr. Ricardo José de Souza" />
+
+
+<title>Rotinas do Ambulatório de Uroginecologia</title>
+
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+<style type="text/css">
+/* for pandoc --citeproc since 2.11 */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Rotinas da Uroginecologia - UERJ</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Rotinas</a>
+</li>
+<li>
+  <a href="about.html">Sobre</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Rotinas do Ambulatório de Uroginecologia</h1>
+<h3 class="subtitle">Serviço de Ginecologia do Hospital Universitário Pedro Ernesto - UERJ</h3>
+<h4 class="author">Dr. Ricardo José de Souza<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></h4>
+<h4 class="date">versão 2021.1</h4>
+
+</div>
+
+<div id="TOC">
+<ul>
+<li><a href="#via-de-acesso-ao-ambulatório"><strong>Via de acesso ao ambulatório</strong></a></li>
+<li><a href="#perfil-do-paciente"><strong>Perfil do paciente</strong></a></li>
+<li><a href="#atendimento-da-paciente-no-ambulatório-primeira-consulta"><strong>Atendimento da paciente no Ambulatório Primeira consulta</strong></a>
+<ul>
+<li><a href="#pacientes-com-indicação-cirúrgica"><strong>Pacientes com indicação cirúrgica</strong></a></li>
+<li><a href="#durante-a-internação-cirúrgica"><strong>Durante a internação cirúrgica</strong></a></li>
+</ul></li>
+<li><a href="#revisão-cirúrgica"><strong>Revisão cirúrgica</strong></a></li>
+<li><a href="#revisão-clínica"><strong>Revisão clínica</strong></a></li>
+<li><a href="#exame-físico"><strong>Exame físico</strong></a></li>
+<li><a href="#pop-q"><strong>POP-Q</strong></a>
+<ul>
+<li><a href="#pontos-do-pop-q"><strong>Pontos do POP-Q</strong></a></li>
+<li><a href="#estadiamento-dos-prolapsos-pop-q"><strong>Estadiamento dos prolapsos (POP-Q)</strong></a></li>
+<li><a href="#exemplos"><strong>Exemplos</strong></a></li>
+<li><a href="#avaliação-funcional-do-assoalho-pélvico"><strong>Avaliação funcional do assoalho pélvico</strong></a></li>
+</ul></li>
+<li><a href="#terminologia"><strong>TERMINOLOGIA</strong></a>
+<ul>
+<li><a href="#sintomas-de-incontinência-urinária"><strong>Sintomas de incontinência urinária</strong></a></li>
+<li><a href="#sintomas-de-armazenamento"><strong>Sintomas de armazenamento</strong></a></li>
+<li><a href="#sintomas-miccionais"><strong>Sintomas miccionais</strong></a></li>
+<li><a href="#sintomas-associados-ao-prolapso-dos-órgãos-pélvicos"><strong>Sintomas Associados ao prolapso dos órgãos pélvicos</strong></a></li>
+</ul></li>
+<li><a href="#propedêutica-clínica-da-incontinência-urinária"><strong>Propedêutica clínica da incontinência urinária</strong></a>
+<ul>
+<li><a href="#tratamento-da-incontinência-urinária"><strong>Tratamento da Incontinência urinária</strong></a></li>
+<li><a href="#principais-agentes-farmacológicos"><strong>Principais agentes farmacológicos</strong></a></li>
+</ul></li>
+<li><a href="#referências"><strong>REFERÊNCIAS</strong></a></li>
+</ul>
+</div>
+
+<div id="via-de-acesso-ao-ambulatório" class="section level3">
+<h3><strong>Via de acesso ao ambulatório</strong></h3>
+<ul>
+<li><p>Via SISREG ou SER (03 vagas); ou</p></li>
+<li><p>Via encaminhamento interno de mulheres já atendidas por outras clínicas no HUPE ou PPC.</p></li>
+</ul>
+</div>
+<div id="perfil-do-paciente" class="section level3">
+<h3><strong>Perfil do paciente</strong></h3>
+<ul>
+<li><p>Prolapso genital;</p></li>
+<li><p>Incontinência urinária associada a prolapso;</p></li>
+<li><p>Infecções urinárias de repetição;</p></li>
+<li><p>Dor pélvica crônica associada a sintomas urinários ou prolapsos; e</p></li>
+<li><p>Fístula vesico-vaginal.</p></li>
+</ul>
+<div style="page-break-after: always;"></div>
+</div>
+<div id="atendimento-da-paciente-no-ambulatório-primeira-consulta" class="section level3">
+<h3><strong>Atendimento da paciente no Ambulatório Primeira consulta</strong></h3>
+<p>As pacientes devem ser inseridas no banco de dados criado para o ambulatório (Projeto prolapso), através do endereço do REDCap via web: <a href="https://redcap.lampada.uerj.br">www.redcap.lampada.uerj.br</a>. Todos os itens abaixo devem ser preenchidos na primeira consulta:</p>
+<ul>
+<li><p>Cadastro;</p></li>
+<li><p>Anamnese;</p></li>
+<li><p>Exame físico;</p></li>
+<li><p>Tratamento proposto; e</p></li>
+<li><p>Questionários de autopreenchimento (são entregues às pacientes pela recepcionista e preenchidas antes da consulta):</p>
+<ul>
+<li><p>Questionário de impacto no assoalho pélvico (PFIQ-7);</p></li>
+<li><p>Questionário de incontinência urinária (ICIQ-SF); e</p></li>
+<li><p>Questionário de qualidade do sono.</p></li>
+</ul></li>
+</ul>
+<p>Após inserir todos as informações no banco de dados, preencher o prontuário eletrônico (MV) com as informações importantes da consulta (lembrar que nem todos terão acesso ao REDCap, pois este é apenas para fins de pesquisa):</p>
+<p>Anamnese;</p>
+<ul>
+<li><p>HPP;</p></li>
+<li><p>HGO;</p></li>
+<li><p>Exame físico; e</p></li>
+<li><p>Tratamento proposto.</p></li>
+</ul>
+<div id="pacientes-com-indicação-cirúrgica" class="section level4">
+<h4><strong>Pacientes com indicação cirúrgica</strong></h4>
+<ul>
+<li><p>Solicitar exames pré-operatórios;</p></li>
+<li><p>Inserir na fila de cirurgias do serviço (<em>Google forms</em>);</p></li>
+<li><p>Explicar para a paciente os detalhes da cirurgia indicada e <strong>entregar o consentimento informado</strong> (a paciente deve levar para casa preenchido e assinado pelo médico, em duas vias, e trazer no dia da internação assinado).</p></li>
+</ul>
+<p><img src="Figuras/Imagem1.png" title="Estímulo a doar sangue" width="343" height="108" /></p>
+</div>
+<div id="durante-a-internação-cirúrgica" class="section level4">
+<h4><strong>Durante a internação cirúrgica</strong></h4>
+<p>Verificar <strong>se assinou o consentimento informado</strong> (entregue durante a consulta do ambulatório) e anexar ao prontuário;</p>
+<p>Pacientes submetidas a cirurgia (preencher no <a href="https://redcap.lampada.uerj.br">REDCap</a>):</p>
+<ul>
+<li><p>Formulário “Pós-operatório” (deve ser preenchido após a cirurgia e ainda durante a internação);</p></li>
+<li><p>Preencher <em>Google forms</em> de cirurgias do serviço e dar baixa na planilha da fila de cirurgias.</p></li>
+</ul>
+</div>
+</div>
+<div id="revisão-cirúrgica" class="section level3">
+<h3><strong>Revisão cirúrgica</strong></h3>
+<ul>
+<li><p>Primeira revisão entre 20 e 30 dias (casos excepcionais devem ser avaliados individualmente);</p></li>
+<li><p>Verificar laudo histopatológico;</p></li>
+<li><p>Orientar a pegar laudo histopatológico (se aplicável) 30 dias após a cirurgia;</p></li>
+<li><p>Revisão da cirurgia (preencher no REDCap e MV): devem ser preenchidas em 6, 12 e 24 meses após a cirurgia todas as informações abaixo:</p>
+<ul>
+<li><p>Formulário no REDCap de Revisão da cirurgia; e</p></li>
+<li><p>Reaplicar os questionários:</p>
+<ol style="list-style-type: decimal">
+<li><p>de impacto no assoalho pélvico (PFIQ-7);</p></li>
+<li><p>de incontinência urinária (ICIQ-SF); e</p></li>
+<li><p>de qualidade do sono.</p></li>
+</ol></li>
+</ul></li>
+</ul>
+</div>
+<div id="revisão-clínica" class="section level3">
+<h3><strong>Revisão clínica</strong></h3>
+<ul>
+<li><p>Reavaliar tratamento de acordo com a doença;</p></li>
+<li><p>Caso seja indicada cirurgia, verificar se tem cadastro no REDCap. Caso positivo, atualizar dados; se negativo, inserir no banco como novo cadastro.</p></li>
+</ul>
+</div>
+<div id="exame-físico" class="section level3">
+<h3><strong>Exame físico</strong></h3>
+<p>Queixas de incontinência urinária de esforço - fazer o teste da tosse em com a paciente em pé e com a bexiga “confortavelmente” cheia (avaliar a perda em até três tosses);</p>
+<p>Avaliação de pacientes com prolapso:</p>
+<ul>
+<li><p>Preferencialmente deitada, porém se não for evidenciado o prolapso, deve ser feito o exame a paciente em pé;</p></li>
+<li><p>Utilizar o <strong>POP-Q</strong></p>
+<ul>
+<li><p>Medir primeiro<strong>: hiato genital e corpo perineal</strong>;</p></li>
+<li><p>A seguir, os pontos <strong>Aa,Ba,C, Ap, Bp,e D</strong> (se aplicável) com a paciente realizando manobra de valsava; e</p></li>
+<li><p>Por fim, reduzir o prolapso e medir o <strong>comprimento total da vagina</strong>.</p></li>
+</ul></li>
+</ul>
+</div>
+<div id="pop-q" class="section level3">
+<h3><strong>POP-Q</strong></h3>
+<p>Os prolapsos serão classificados de acordo com o <em>Pelvic Organ Quantification System</em> (POP-Q), sistema padronizado adotado pelos membros da ICS, <em>American Urogynecology Society</em> (AUGUS) e da <em>Society of Gynecologic Surgeons</em> (SGS).<span class="citation">[<a href="#ref-Madhu2018" role="doc-biblioref">1</a>,<a href="#ref-Bump1996" role="doc-biblioref">2</a>]</span></p>
+<div class="figure">
+<img src="Figuras/Figura_1.png" alt="" />
+<p class="caption">Pontos e medidas do POP-Q; Fonte: Bump, 1996</p>
+</div>
+<div id="pontos-do-pop-q" class="section level4">
+<h4><strong>Pontos do POP-Q</strong></h4>
+<p><strong>C:</strong> Cérvix ou Colo; <strong>GH:</strong> Hiato Genital; <strong>PB:</strong> Corpo Perineal; <strong>TVL:</strong> Comprimento Vaginal Total; <strong>D:</strong> Fórnice vaginal posterior (ausente em mulheres histerectomizadas).</p>
+<p>Esse sistema utiliza o anel himenal como ponto fixo de referência, sendo este o <strong>ponto <em>zero</em></strong><em>.</em> Toda estrutura que se encontra acima (direção cranial - proximal), recebe um valor negativo e toda estrutura abaixo (caudal - distal) recebe valores positivos.</p>
+<p>São utilizados seis pontos de referência para realizar as medidas:</p>
+<p><strong>Aa</strong>: ponto situado na linha média da parede anterior da vagina, a 3 cm do óstio uretral. Coincide com a junção uretrovesical (colo vesical). Esse ponto pode variar de <strong>-3 a +3</strong>, por definição.</p>
+<p><strong>Ba</strong>: também na parede anterior da vagina, corresponde ao ponto mais distal da parede anterior da vagina. Portanto, é um ponto variável, que pode ser encontrado desde o ponto Aa até o fórnix anterior da vagina ou cúpula vaginal (quando não houver útero). Este ponto, por definição, corresponde a -3 (coincide com ponto Aa) na ausência de prolapso e coincide com o ponto C nas mulheres com prolapso completo.</p>
+<p><strong>C</strong>: corresponde ao ponto mais distal (também variável) do limite do colo uterino ou cúpula vaginal (ausência do útero).</p>
+<p><strong>D</strong>: corresponde ao ponto mais distal do fórnix posterior (fundo-de-saco de <strong>Douglas</strong>). Representa o ponto de inserção, no útero, dos ligamentos uterossacros. Este ponto é omitido quando a paciente não tem útero.</p>
+<p>Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertrófico do colo uterino e defeitos apicais. Pois quando há uma diferença maior do que 4 cm entre este e o ponto C, temos uma indicação de alongamento do colo uterino.</p>
+<p><strong>Ap</strong>: localizado linha média da parede posterior da vagina, análogo ao ponto Aa, situa-se a 3 cm do anel himenal. Podendo variar de -3 a +3.</p>
+<p><strong>Bp</strong>: Na parede posterior da vagina, configura-se o ponto mais distal desta, podendo variar do ponto Ap ao fórnix posterior da vagina. Por definição, na ausência de prolapso seu valor é -3.</p>
+<p><strong>GH (<em>genital hiatus</em>)</strong>: Hiato genital, medida de valor absoluto, é medido tomando-se como referência o ponto central do meato uretral estendendo-se até a porção posterior do anel himenal ou início do corpo perineal, quando aquele não pode ser identificado.</p>
+<p><strong>PB (<em>perineal body</em>)</strong>: Corpo perineal, medida também de valor absoluto, é aferido a partir do fim do hiato genital até a porção mediana do orifício anal.</p>
+<p><strong>TVL (<em>total vaginal length</em>)</strong>: comprimento total da vagina, é a medida da maior profundidade da vagina em centímetros, após a redução do prolapso.</p>
+</div>
+<div id="estadiamento-dos-prolapsos-pop-q" class="section level4">
+<h4><strong>Estadiamento dos prolapsos (POP-Q)</strong></h4>
+<table>
+<colgroup>
+<col width="7%" />
+<col width="92%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Estágio</th>
+<th align="left">Medidas do POP-Q</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">ZERO</td>
+<td align="left">Ausência de prolapso</td>
+</tr>
+<tr class="even">
+<td align="center">I</td>
+<td align="left">Quando a medida está 1 cm ou mais acima do anel himenal</td>
+</tr>
+<tr class="odd">
+<td align="center">II</td>
+<td align="left">Quando a medida está entre 1 cm acima e 1 cm abaixo do anel himenal</td>
+</tr>
+<tr class="even">
+<td align="center">II</td>
+<td align="left">Quando a medida está 1 cm abaixo do anel himenal, porém menor do que 2 cm do comprimento total da vagina (CTV – 2cm)</td>
+</tr>
+<tr class="odd">
+<td align="center">IV</td>
+<td align="left">Quando a medida está entre 2 cm do comprimento total da vagina e a sua eversão completa (CTV ± 2cm)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="exemplos" class="section level4">
+<h4><strong>Exemplos</strong></h4>
+<div class="figure">
+<img src="Figuras/Figura_2.png" alt="" />
+<p class="caption">Estadiamento do prolapso genital; Fonte: Madhu, 2018</p>
+</div>
+<div class="figure">
+<img src="Figuras/figura_3.png" alt="" />
+<p class="caption">Estadiamento do prolapso genital; Fonte: Madhu, 2018</p>
+</div>
+<div class="figure">
+<img src="Figuras/Posicao_normal.png" title="Posição normal dos órgãos genitais" alt="" />
+<p class="caption">Medidas com as estruturas pélvicas na posição normal</p>
+</div>
+<div class="figure">
+<img src="Figuras/Prolapso%20completo.png" title="Prolapso genital completo" alt="" />
+<p class="caption">Medidas no prolapso genital completo</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div id="avaliação-funcional-do-assoalho-pélvico" class="section level4">
+<h4><strong>Avaliação funcional do assoalho pélvico</strong></h4>
+<table>
+<colgroup>
+<col width="8%" />
+<col width="91%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Grau</th>
+<th align="left">Função</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">ZERO</td>
+<td align="left">Sem função, nem mesmo à palpação</td>
+</tr>
+<tr class="even">
+<td align="center">1</td>
+<td align="left">Função objetiva ausente, reconhecida somente à palpação</td>
+</tr>
+<tr class="odd">
+<td align="center">2</td>
+<td align="left">Função objetiva débil, reconhecida à palpação</td>
+</tr>
+<tr class="even">
+<td align="center">3</td>
+<td align="left">Função objetiva e resistência opositora, não mantida à palpação</td>
+</tr>
+<tr class="odd">
+<td align="center">4</td>
+<td align="left">Função objetiva e resistência mantida à palpação por mais de 5 segundos</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="terminologia" class="section level3">
+<h3><strong>TERMINOLOGIA</strong></h3>
+<p>Padronização de acordo com relatório conjunto da Associação Internacional de Uroginecologia (International Urogynecological Association – IUGA) e Sociedade Internacional de Continência Iinternational Continence Society – ICS), adotada em 2009.<span class="citation">[<a href="#ref-Haylen2010" role="doc-biblioref">3</a>]</span></p>
+<div id="sintomas-de-incontinência-urinária" class="section level4">
+<h4><strong>Sintomas de incontinência urinária</strong></h4>
+<ol style="list-style-type: decimal">
+<li><p><strong>Incontinência urinária</strong>: queixa de perda urinária involuntária;</p></li>
+<li><p><strong>Incontinência de esforço</strong>: perda ocorre durante esforço físico e exercícios;</p></li>
+<li><p><strong>Incontinência por urgência:</strong> quando associada à urgência;</p></li>
+<li><p><strong>Incontinência postural</strong>: associada à mudança de posição;</p></li>
+<li><p><strong>Enurese noturna</strong>: perda involuntária durante o sono;</p></li>
+<li><p><strong>Incontinência mista</strong>: associação de esforço e urgência;</p></li>
+<li><p><strong>Incontinência contínua</strong>: perda contínua de urina;</p></li>
+<li><p><strong>Incontinência insensível</strong>: a mulher não tem conhecimento de como ocorreu a perda; e</p></li>
+<li><p><strong>Incontinência durante o coito:</strong> ocorre durante o coito.</p></li>
+</ol>
+</div>
+<div id="sintomas-de-armazenamento" class="section level4">
+<h4><strong>Sintomas de armazenamento</strong></h4>
+<ol style="list-style-type: decimal">
+<li><p><strong>Aumento da frequência urinária diurna</strong>: maior frequência na micção durante as horas de vigília que o padrão anterior;</p></li>
+<li><p><strong>Noctúria</strong>: Interrupção do sono devido à necessidade de urinar;</p></li>
+<li><p><strong>Urgência:</strong> súbito desejo imperioso de urinar, difícil de ser inibido; e</p></li>
+<li><p><strong>Síndrome da bexiga hiperativa</strong>: urgência geralmente acompanhada de frequência e noctúria, com ou sem incontinência, na ausência de infecção do trato urinário ou outra patologia evidente.</p></li>
+</ol>
+</div>
+<div id="sintomas-miccionais" class="section level4">
+<h4><strong>Sintomas miccionais</strong></h4>
+<ol style="list-style-type: decimal">
+<li><p><strong>Hesitância</strong>: atraso em iniciar a micção;</p></li>
+<li><p><strong>Fluxo lento</strong>: fluxo urinário mais lento em relação ao padrão prévio;</p></li>
+<li><p><strong>Intermitência</strong>: Interrupção do fluxo urinário durante a micção;</p></li>
+<li><p><strong>Esforço para urinar</strong>: necessidade de esforço para iniciar a micção;</p></li>
+<li><p><strong>Sensação de esvaziamento incompleto</strong>: sensação de resíduo urinário após a micção;</p></li>
+<li><p><strong>Perda pós-miccional</strong>: necessidade de urinar novamente após encerrada a micção;</p></li>
+<li><p><strong>Disúria</strong>: queixa de desconforto ou queimação durante a micção;</p></li>
+<li><p><strong>Retenção</strong>: incapacidade de urinar apesar de esforço persistente; e</p></li>
+<li><p><strong>Estrangúria</strong>: dor à micção e dificuldade de urinar.</p></li>
+</ol>
+</div>
+<div id="sintomas-associados-ao-prolapso-dos-órgãos-pélvicos" class="section level4">
+<h4><strong>Sintomas Associados ao prolapso dos órgãos pélvicos</strong></h4>
+<ol style="list-style-type: decimal">
+<li><p><strong>Abaulamento vesical (“bola na vagina”)</strong>: sensação de prolapso na altura do intróito vaginal ou se exteriorizando por este, podendo ser percebido visualmente ou pela palpação da paciente;</p></li>
+<li><p><strong>Pressão pélvica</strong>: aumento da sensação de peso na área suprapúbica e/ou pélvica;</p></li>
+<li><p><strong>Sangramento, secreção, infecção</strong>: queixa de sangramento, secreção ou infecção relacionada à presença de ulceração no prolapso;</p></li>
+<li><p><strong>Apoio/digitação</strong>: necessidade de reduzir digital ou manualmente o prolapso para auxiliar na micção; e</p></li>
+<li><p><strong>Dor lombar</strong>: Associação da dor ao aparecimento do prolapso.</p></li>
+</ol>
+</div>
+</div>
+<div id="propedêutica-clínica-da-incontinência-urinária" class="section level3">
+<h3><strong>Propedêutica clínica da incontinência urinária</strong></h3>
+<ul>
+<li><p>Anamnese</p></li>
+<li><p>Exame físico</p></li>
+<li><p>Avaliação com questionário de qualidade de vida específico (“<em>International Consultation on Incontinence Questionnaire - Short Form</em>” ICIQ-SF)</p></li>
+<li><p>Diário miccional e verificação de resíduo pós-miccional poderão ser aplicados em casos específicos.</p></li>
+<li><p>Estudo Urodinâmico</p>
+<ol style="list-style-type: decimal">
+<li><p>Prolapsos genitais associados a perda urinária (sinal ou sintoma);</p></li>
+<li><p>Falhas em terapias anteriores;</p></li>
+<li><p>Disfunção vesical neurogênica;</p></li>
+<li><p>Retenção urinária; e</p></li>
+<li><p>Queixas urinárias após cirurgias pélvicas.</p></li>
+</ol></li>
+<li><p>Endoscopia</p>
+<ol style="list-style-type: decimal">
+<li><p>Suspeita de patologia intra-vesical;</p></li>
+<li><p>Fístula vesico-vaginal;</p></li>
+<li><p>Dor e desconforto vesical.</p></li>
+</ol></li>
+<li><p>Exames de Imagem</p></li>
+<li><p>USG</p>
+<ol style="list-style-type: decimal">
+<li><p>Suspeitade lesão intra-vesical ou cálculo urinário;</p></li>
+<li><p>Hematúria</p></li>
+<li><p>Massas pélvicas</p></li>
+<li><p>Sd. bexiga dolorosa</p></li>
+<li><p>Sd. obstrutiva</p></li>
+<li><p>Resíduo pós-miccional elevado ou obstrução à micção</p></li>
+<li><p>Prolapsos genitais estágio IV (POP-Q)</p></li>
+<li><p>Cirurgias conservadoras do útero</p></li>
+</ol></li>
+<li><p>RNM</p></li>
+<li><p>RX</p></li>
+<li><p>Urotomografia</p></li>
+<li><p>Outros Exames:</p>
+<ol style="list-style-type: decimal">
+<li><p>EAS;</p></li>
+<li><p>Urocultura;</p></li>
+<li><p>Hemograma;</p></li>
+<li><p>Glicemia e Hb glicada (diabetes mellitus) ; e</p></li>
+<li><p>Uréia e creatinina.</p></li>
+</ol></li>
+</ul>
+<div id="tratamento-da-incontinência-urinária" class="section level4">
+<h4><strong>Tratamento da Incontinência urinária</strong></h4>
+<div class="figure">
+<img src="Figuras/Algor%C3%ADtimo_iu_ambulat%C3%B3rio.png" width="723" height="801" alt="" />
+<p class="caption">Algorítimo de conduta na incontinência urinária</p>
+</div>
+</div>
+<div id="principais-agentes-farmacológicos" class="section level4">
+<h4><strong>Principais agentes farmacológicos</strong></h4>
+<ol style="list-style-type: decimal">
+<li><p>Cloridato de oxibutinina (Retemic®): dose 5 a 20 mg/dia;</p></li>
+<li><p>Tartarato de tolterodine (Detrusitol®): dose 2 a 4 mg/dia;</p></li>
+<li><p>Darifenacin (Enablex®): dose 7,5 a 15 mg/dia;</p></li>
+<li><p>Solifenacin (Vesicare®): dose 5 a 10 mg/dia;</p></li>
+<li><p>Imipramina: segunda linha de tratamento. Dose 10 a 25 mg, uma a três vezes/dia;</p></li>
+<li><p>Amtrptilina: segunda linha. Dose 25 a 75 mg/dia;</p></li>
+<li><p>Mirabegrona (Myrbetric®): 25 a 50 mg 1x/dia.</p></li>
+</ol>
+</div>
+</div>
+<div id="referências" class="section level3 unnumbered">
+<h3 class="unnumbered"><strong>REFERÊNCIAS</strong></h3>
+<div id="refs" class="references csl-bib-body">
+<div id="ref-Madhu2018" class="csl-entry">
+<div class="csl-left-margin">[1] </div><div class="csl-right-inline">Madhu C, Swift S, Moloney-Geany S, Drake MJ. How to use the Pelvic Organ Prolapse Quantification (POP-Q) system? Neurourology and Urodynamics 2018;37:S39–43. <a href="https://doi.org/10.1002/nau.23740">https://doi.org/10.1002/nau.23740</a>.</div>
+</div>
+<div id="ref-Bump1996" class="csl-entry">
+<div class="csl-left-margin">[2] </div><div class="csl-right-inline">Bump RC, Mattiasson A, Bø K, Brubaker LP, DeLancey JOL, Klarskov P, et al. The standardization of terminology of female pelvic organ prolapse and pelvic floor dysfunction. American Journal of Obstetrics and Gynecology 1996;175:10–7. <a href="https://doi.org/10.1016/s0002-9378(96)70243-0">https://doi.org/10.1016/s0002-9378(96)70243-0</a>.</div>
+</div>
+<div id="ref-Haylen2010" class="csl-entry">
+<div class="csl-left-margin">[3] </div><div class="csl-right-inline">Haylen BT, de Ridder D, Freeman RM, Swift SE, Berghmans B, Lee J, et al. An international urogynecological association (IUGA)/international continence society (ICS) joint report on the terminology for female pelvic floor dysfunction. Neurourology and Urodynamics 2009;29:4–20. <a href="https://doi.org/10.1002/nau.20798">https://doi.org/10.1002/nau.20798</a>.</div>
+</div>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Coordenador do ambulatório de uroginecologia no HUPE/UERJ e urologia feminina do Núcleo de Disfunção Miccional na Policlínica Piquet Carneiro/UERJ<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
