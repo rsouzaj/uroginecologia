@@ -1,15 +1,19 @@
 ---
 title: "Rotinas do Ambulatório de Uroginecologia"
-subtitle: "Clínica de Ginecologia do Hospital Universitário Pedro Ernesto - UERJ"
-
-author: "Dr. Ricardo José de Souza - Coordenador do ambulatório"
-
-date: versão 2021.1
+author: Dr. Ricardo José de Souza ^[Coordenador do ambulatório de uroginecologia no
+  HUPE e urologia feminina do Núcleo de Disfunção Miccional na Policlínica Piquet
+  Carneiro]
+date: "versão 2021.1"
 output:
   html_document:
     df_print: paged
-    toc: TRUE
+    toc: yes
     toc_depth: 5
+    fig_caption: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
+subtitle: Serviço de Ginecologia ^[Hospital Universitário Pedro Ernesto - UERJ]
 link-citations: yes
 bibliography: references.bib
 csl: elsevier-vancouver.csl
@@ -32,6 +36,8 @@ csl: elsevier-vancouver.csl
 -   Dor pélvica crônica associada a sintomas urinários ou prolapsos; e
 
 -   Fístula vesico-vaginal.
+
+\newpage
 
 ### **Atendimento da paciente no Ambulatório Primeira consulta**
 
@@ -77,7 +83,7 @@ Anamnese;
 
 #### **Durante a internação cirúrgica**
 
-Verificar **se assinou o** **consentimento informado** (entregue durante a consulta do ambulatório) e anexar ao prontuário;
+Verificar **se assinou o consentimento informado** (entregue durante a consulta do ambulatório) e anexar ao prontuário;
 
 Pacientes submetidas a cirurgia (preencher no [REDCap](https://redcap.lampada.uerj.br)):
 
@@ -131,7 +137,7 @@ Avaliação de pacientes com prolapso:
 
 Os prolapsos serão classificados de acordo com o *Pelvic Organ Quantification System* (POP-Q), sistema padronizado adotado pelos membros da ICS, *American Urogynecology Society* (AUGUS) e da *Society of Gynecologic Surgeons* (SGS).[@Madhu2018; @Bump1996]
 
-![Fig 1. Pontos e medidas do POP-Q](Figura_1.png){width="450"}
+![Pontos e medidas do POP-Q; Fonte: Bump, 1996](Figura_1.png){width="450"}
 
 #### **PONTOS DO POP-Q**
 
@@ -179,27 +185,31 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 #### **EXEMPLOS**
 
-![Fig 2. Estadiamento do prolapso genital](Figura_2.png){width="391"}
+![Estadiamento do prolapso genital; Fonte: Madhu, 2018](Figura_2.png){width="350"}
 
-![Fig 3. Estadiamento do prolapso genital](figura_3.png){width="389"}
+![Estadiamento do prolapso genital; Fonte: Madhu, 2018](figura_3.png){width="303"}
 
-<!-- INSERIR AS FIGURAS FALTANTES -->
+![Medidas com as estruturas pélvicas na posição normal](Posicao_normal.png "Posição normal dos órgãos genitais")
+
+![Medidas no prolapso genital completo](Prolapso%20completo.png "Prolapso genital completo"){width="760"}
+
+\newpage
 
 #### **Avaliação funcional do assoalho pélvico**
 
-+-------+-------------------------------------------------------------------------+
-| Grau  | Função                                                                  |
-+:=====:+:========================================================================+
-| ZERO  | Sem função, nem mesmo à palpação                                        |
-+-------+-------------------------------------------------------------------------+
-| 1     | Função objetiva ausente, reconhecida somente à palpação                 |
-+-------+-------------------------------------------------------------------------+
-| 2     | Função objetiva débil, reconhecida à palpação                           |
-+-------+-------------------------------------------------------------------------+
-| 3     | Função objetiva e resistência opositora, não mantida à palpação         |
-+-------+-------------------------------------------------------------------------+
-| 4     | Função objetiva e resistência mantida à palpação por mais de 5 segundos |
-+-------+-------------------------------------------------------------------------+
++------+-------------------------------------------------------------------------+
+| Grau | Função                                                                  |
++:====:+:========================================================================+
+| ZERO | Sem função, nem mesmo à palpação                                        |
++------+-------------------------------------------------------------------------+
+| 1    | Função objetiva ausente, reconhecida somente à palpação                 |
++------+-------------------------------------------------------------------------+
+| 2    | Função objetiva débil, reconhecida à palpação                           |
++------+-------------------------------------------------------------------------+
+| 3    | Função objetiva e resistência opositora, não mantida à palpação         |
++------+-------------------------------------------------------------------------+
+| 4    | Função objetiva e resistência mantida à palpação por mais de 5 segundos |
++------+-------------------------------------------------------------------------+
 
 ### **TERMINOLOGIA**
 
@@ -293,7 +303,7 @@ Padronização de acordo com relatório conjunto da Associação Internacional d
 
     1.  Suspeita de patologia intra-vesical;
 
-    2.  Fístulas vesico-vaginal;
+    2.  Fístula vesico-vaginal;
 
     3.  Dor e desconforto vesical.
 
@@ -337,7 +347,7 @@ Padronização de acordo com relatório conjunto da Associação Internacional d
 
 #### **Tratamento da Incontinência urinária**
 
-<!-- INSERIR NOVO DIAGRAMA -->
+![Algorítimo de conduta na incontinência urinária](Algor%C3%ADtimo_iu_ambulat%C3%B3rio.png){width="890" height="527"}
 
 #### **Principais agentes farmacológicos**
 
@@ -347,7 +357,7 @@ Padronização de acordo com relatório conjunto da Associação Internacional d
 
 3.  Darifenacin (Enablex®): dose 7,5 a 15 mg/dia;
 
-4.  Solifenacin (Vesicare®):  dose 5 a 10 mg/dia;
+4.  Solifenacin (Vesicare®): dose 5 a 10 mg/dia;
 
 5.  Imipramina: segunda linha de tratamento. dose 10 a 25 mg, uma a três vezes/dia;
 
