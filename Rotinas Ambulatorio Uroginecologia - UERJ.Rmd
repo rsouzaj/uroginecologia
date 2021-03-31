@@ -1,19 +1,19 @@
 ---
 title: "Rotinas do Ambulatório de Uroginecologia"
+subtitle: Serviço de Ginecologia do Hospital Universitário Pedro Ernesto - UERJ
 author: Dr. Ricardo José de Souza ^[Coordenador do ambulatório de uroginecologia no
-  HUPE e urologia feminina do Núcleo de Disfunção Miccional na Policlínica Piquet
-  Carneiro]
+  HUPE/UERJ e urologia feminina do Núcleo de Disfunção Miccional na Policlínica Piquet
+  Carneiro/UERJ]
 date: "versão 2021.1"
 output:
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
   html_document:
     df_print: paged
     toc: yes
     toc_depth: 5
     fig_caption: yes
-  pdf_document:
-    toc: yes
-    toc_depth: '5'
-subtitle: Serviço de Ginecologia ^[Hospital Universitário Pedro Ernesto - UERJ]
 link-citations: yes
 bibliography: references.bib
 csl: elsevier-vancouver.csl
@@ -189,9 +189,9 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 ![Estadiamento do prolapso genital; Fonte: Madhu, 2018](figura_3.png){width="303"}
 
-![Medidas com as estruturas pélvicas na posição normal](Posicao_normal.png "Posição normal dos órgãos genitais")
+![Medidas com as estruturas pélvicas na posição normal](Posicao_normal.png "Posição normal dos órgãos genitais"){width="525"}
 
-![Medidas no prolapso genital completo](Prolapso%20completo.png "Prolapso genital completo"){width="760"}
+![Medidas no prolapso genital completo](Prolapso%20completo.png "Prolapso genital completo"){width="458"}
 
 \newpage
 
@@ -347,7 +347,7 @@ Padronização de acordo com relatório conjunto da Associação Internacional d
 
 #### **Tratamento da Incontinência urinária**
 
-![Algorítimo de conduta na incontinência urinária](Algor%C3%ADtimo_iu_ambulat%C3%B3rio.png){width="890" height="527"}
+![Algorítimo de conduta na incontinência urinária](Algor%C3%ADtimo_iu_ambulat%C3%B3rio.png){width="624" height="628"}
 
 #### **Principais agentes farmacológicos**
 
@@ -359,6 +359,10 @@ Padronização de acordo com relatório conjunto da Associação Internacional d
 
 4.  Solifenacin (Vesicare®): dose 5 a 10 mg/dia;
 
-5.  Imipramina: segunda linha de tratamento. dose 10 a 25 mg, uma a três vezes/dia;
+5.  Imipramina: segunda linha de tratamento. Dose 10 a 25 mg, uma a três vezes/dia;
 
-6.  Mirabegrona (Myrtric®): 25 a 50 mg 1x/dia.
+6.  Amtrptilina: segunda linha. Dose 25 a 75 mg/dia;
+
+7.  Mirabegrona (Myrbetric®): 25 a 50 mg 1x/dia.
+
+### **REFERÊNCIAS**
