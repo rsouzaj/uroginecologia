@@ -7,4 +7,6 @@ navbar:
     - text: "Sobre"
       href: about.html
       
+theme: "Hugo TeX"
+
 output_dir: "docs"
