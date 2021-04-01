@@ -13,6 +13,6 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/R/Projeto_prolapsos
+WebsitePath: ~/R/uroginecologia
 
 SpellingDictionary: pt_BR

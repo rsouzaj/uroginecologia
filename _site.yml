@@ -6,6 +6,9 @@ navbar:
       href: index.html
     - text: "Sobre"
       href: about.html
-      
+
+output:
+  html_document:
+    theme: journal
 
 output_dir: "docs"
