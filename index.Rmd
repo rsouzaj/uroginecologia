@@ -169,19 +169,13 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 #### **Estadiamento dos prolapsos (POP-Q)**
 
-+---------+-----------------------------------------------------------------------------------------------------------------------+
 | Estágio | Medidas do POP-Q                                                                                                      |
-+:=======:+:======================================================================================================================+
-| ZERO    | Ausência de prolapso                                                                                                  |
-+---------+-----------------------------------------------------------------------------------------------------------------------+
-| I       | Quando a medida está 1 cm ou mais acima do anel himenal                                                               |
-+---------+-----------------------------------------------------------------------------------------------------------------------+
-| II      | Quando a medida está entre 1 cm acima e 1 cm abaixo do anel himenal                                                   |
-+---------+-----------------------------------------------------------------------------------------------------------------------+
-| II      | Quando a medida está 1 cm abaixo do anel himenal, porém menor do que 2 cm do comprimento total da vagina (CTV -- 2cm) |
-+---------+-----------------------------------------------------------------------------------------------------------------------+
-| IV      | Quando a medida está entre 2 cm do comprimento total da vagina e a sua eversão completa (CTV ± 2cm)                   |
-+---------+-----------------------------------------------------------------------------------------------------------------------+
+|:-------:|:----------------------------------------------------------------------------------------------------------------------|
+|  ZERO   | Ausência de prolapso                                                                                                  |
+|    I    | Quando a medida está 1 cm ou mais acima do anel himenal                                                               |
+|   II    | Quando a medida está entre 1 cm acima e 1 cm abaixo do anel himenal                                                   |
+|   II    | Quando a medida está 1 cm abaixo do anel himenal, porém menor do que 2 cm do comprimento total da vagina (CTV -- 2cm) |
+|   IV    | Quando a medida está entre 2 cm do comprimento total da vagina e a sua eversão completa (CTV ± 2cm)                   |
 
 #### **Exemplos**
 
@@ -197,19 +191,13 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 #### **Avaliação funcional do assoalho pélvico**
 
-+------+-------------------------------------------------------------------------+
 | Grau | Função                                                                  |
-+:====:+:========================================================================+
+|:----:|:------------------------------------------------------------------------|
 | ZERO | Sem função, nem mesmo à palpação                                        |
-+------+-------------------------------------------------------------------------+
-| 1    | Função objetiva ausente, reconhecida somente à palpação                 |
-+------+-------------------------------------------------------------------------+
-| 2    | Função objetiva débil, reconhecida à palpação                           |
-+------+-------------------------------------------------------------------------+
-| 3    | Função objetiva e resistência opositora, não mantida à palpação         |
-+------+-------------------------------------------------------------------------+
-| 4    | Função objetiva e resistência mantida à palpação por mais de 5 segundos |
-+------+-------------------------------------------------------------------------+
+|  1   | Função objetiva ausente, reconhecida somente à palpação                 |
+|  2   | Função objetiva débil, reconhecida à palpação                           |
+|  3   | Função objetiva e resistência opositora, não mantida à palpação         |
+|  4   | Função objetiva e resistência mantida à palpação por mais de 5 segundos |
 
 ### **TERMINOLOGIA**
 

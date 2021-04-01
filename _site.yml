@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "Sobre"
       href: about.html
+      
+output_dir: "docs"
