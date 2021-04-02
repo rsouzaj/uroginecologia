@@ -9,6 +9,6 @@ navbar:
 
 output:
   html_document:
-    theme: journal
-
+    theme: cosmo
+   
 output_dir: "docs"
