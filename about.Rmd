@@ -6,7 +6,7 @@ output: html_document
 
 #### Local e horários
 
-O ambulatório de uroginecologia funciona às terças-feiras, de 08:00 às 12:00 horas.
+O ambulatório de uroginecologia funciona às quintas-feiras, de 08:00 às 12:00 horas.
 
 No prédio dos ambulatórios do Hospital Univeristário Pedro Ernesto - UERJ.
 
