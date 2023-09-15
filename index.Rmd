@@ -1,7 +1,7 @@
 ---
 title: "Rotinas do Ambulatório de Uroginecologia"
 subtitle: Serviço de Ginecologia do Hospital Universitário Pedro Ernesto - UERJ
-author: Dr. Ricardo José de Souza ^[Coordenador do ambulatório de uroginecologia no
+author: Dr. Ricardo José de Souza, Ph.D. ^[Coordenador do ambulatório de uroginecologia no
   HUPE/UERJ e urologia feminina do Núcleo de Disfunção Miccional na Policlínica Piquet
   Carneiro/UERJ]
 date: "versão 2023.2"
@@ -47,4 +47,7 @@ csl: elsevier-vancouver.csl
 
 ### **Perfil do paciente**
 
--   Mulheres com incontinência urinária (sem prolapso genital), infecções urinárias de repetição, fístulas urinárias, divertículos de uretra
+-   Mulheres com incontinência urinária (sem prolapso genital)
+-   Infecções urinárias de repetição
+-   Fístulas urinárias
+-   Divertículos de uretra
