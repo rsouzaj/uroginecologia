@@ -5,7 +5,18 @@ author: Dr. Ricardo José de Souza ^[Coordenador do ambulatório de uroginecolog
   HUPE/UERJ e urologia feminina do Núcleo de Disfunção Miccional na Policlínica Piquet
   Carneiro/UERJ]
 date: "versão 2023.2"
-
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_depth: 5
+    fig_caption: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
+link-citations: yes
+bibliography: references.bib
+csl: elsevier-vancouver.csl
 ---
 
 ## **Guia prático para Residentes, Pós-graduandos e internos do HUPE**
