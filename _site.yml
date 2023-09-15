@@ -2,8 +2,12 @@ name: "uroginecologia"
 navbar:
   title: "Rotinas da Uroginecologia - UERJ"
   left:
-    - text: "Rotinas"
-      href: index.html
+    - text: "Prolapso Genital"
+      href: prolapso.html
+    - text: "Disfunção Miccional"
+      href: incontinencia.html
+    - text: "Pesquisa"
+      href: pesquisa.html
     - text: "Sobre"
       href: about.html
 

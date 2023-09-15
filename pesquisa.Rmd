@@ -1,0 +1,17 @@
+---
+title: "Linhas de Pesquisa da Uroginecologia - UERJ"
+date: "versão 2023.2"
+output:
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_depth: 5
+    fig_caption: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
+link-citations: yes
+bibliography: references.bib
+csl: elsevier-vancouver.csl
+---
+

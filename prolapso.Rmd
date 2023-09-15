@@ -1,10 +1,6 @@
 ---
-title: "Rotinas do Ambulatório de Uroginecologia"
-subtitle: Serviço de Ginecologia do Hospital Universitário Pedro Ernesto - UERJ
-author: Dr. Ricardo José de Souza ^[Coordenador do ambulatório de uroginecologia no
-  HUPE/UERJ e urologia feminina do Núcleo de Disfunção Miccional na Policlínica Piquet
-  Carneiro/UERJ]
-date: "versão 2021.1"
+title: "Rotinas no atendimento de mulheres com Prolapso Genital"
+date: "versão 2023.2"
 output:
   html_document:
     df_print: paged
@@ -19,47 +15,36 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
-### **Via de acesso ao ambulatório**
-
--   Via SISREG ou SER (03 vagas); ou
-
--   Via encaminhamento interno de mulheres já atendidas por outras clínicas no HUPE ou PPC.
-
-### **Perfil do paciente**
-
--   Prolapso genital;
-
--   Incontinência urinária associada a prolapso;
-
--   Infecções urinárias de repetição;
-
--   Dor pélvica crônica associada a sintomas urinários ou prolapsos; e
-
--   Fístula vesico-vaginal.
-
-\newpage
-
 ### **Atendimento da paciente no Ambulatório Primeira consulta**
 
-As pacientes devem ser inseridas no banco de dados criado para o ambulatório (Projeto prolapso), através do endereço do REDCap via web: [www.redcap.lampada.uerj.br](https://redcap.lampada.uerj.br). Todos os itens abaixo devem ser preenchidos na primeira consulta:
+Todas as pacientes com diagnóstico de **prolapso genital** são convidadas a participar do projeto de pesquisa **"Fatores de Risco, Diagnóstico, Tratamento e Prognóstico do Prolapso Genital e Incontinência Urinária Feminina"**. Caso aceitem, são solicitas a preencher o consentimento informado e os formulários da pesquisa.
+Durante o atendimento, os dados da consulta e da pesquisa são inseridos na **plataforma REDCap**, através do link: [REDCap](https://redcap.lampada.uerj.br) e cadastrar no projeto **ImPOP**.
 
--   Cadastro;
 
--   Anamnese;
+Todos os formulários abaixo devem ser preenchidos na primeira consulta:
 
--   Exame físico;
+-   Cadastro
 
--   Tratamento proposto; e
+-   Anamnese
 
--   Questionários de autopreenchimento (são entregues às pacientes pela recepcionista e preenchidas antes da consulta):
+-   Exame físico
 
-    -   Questionário de impacto no assoalho pélvico (PFIQ-7);
+-   Tratamento proposto
 
-    -   Questionário de incontinência urinária (ICIQ-SF); e
+-   Questionários de autopreenchimento (são entregues às pacientes pela recepcionista e preenchidos antes da consulta):
 
-    -   Questionário de qualidade do sono.
+    -   Questionário de impacto no assoalho pélvico (PFIQ-7)
 
-Após inserir todos as informações no banco de dados, preencher o prontuário eletrônico (MV) com as informações importantes da consulta (lembrar que nem todos terão acesso ao REDCap, pois este é apenas para fins de pesquisa):
+    -   Questionário de incontinência urinária (ICIQ-SF)
+
+    -   Questionário de qualidade do sono (ISI e/ou Pittsburgh)
+    
+    -   Questionário de função sexual na mulher (FSFI-6)
+
+Após inserir todos as informações no banco de dados, preencher o prontuário eletrônico (MV) com as informações importantes da consulta (lembrar que nem todos terão acesso ao REDCap, pois este é apenas para fins de pesquisa)
+
+
+
 
 Anamnese;
 
