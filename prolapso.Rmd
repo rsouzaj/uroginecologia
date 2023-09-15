@@ -15,11 +15,14 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
-### **Atendimento da paciente no Ambulatório Primeira consulta**
+## **Atendimento da paciente no Ambulatório Primeira consulta**
 
-Todas as pacientes com diagnóstico de **prolapso genital** são convidadas a participar do projeto de pesquisa **"Fatores de Risco, Diagnóstico, Tratamento e Prognóstico do Prolapso Genital e Incontinência Urinária Feminina"**. Caso aceitem, são solicitas a preencher o consentimento informado e os formulários da pesquisa.
+Todas as pacientes com diagnóstico de **prolapso genital** são convidadas a participar do projeto de pesquisa **"Fatores de Risco, Diagnóstico, Tratamento e Prognóstico do Prolapso Genital e Incontinência Urinária Feminina"**. Caso aceitem, devem ler e assinar o Termo de Consentimento Livre e Esclarecido **(TCLE)** e os formulários da pesquisa.
+
 Durante o atendimento, os dados da consulta e da pesquisa são inseridos na **plataforma REDCap**, através do link: [REDCap](https://redcap.lampada.uerj.br) e cadastrar no projeto **ImPOP**.
 
+
+### **Formulários**
 
 Todos os formulários abaixo devem ser preenchidos na primeira consulta:
 
@@ -31,7 +34,7 @@ Todos os formulários abaixo devem ser preenchidos na primeira consulta:
 
 -   Tratamento proposto
 
--   Questionários de autopreenchimento (são entregues às pacientes pela recepcionista e preenchidos antes da consulta):
+-   Questionários de autopreenchimento e TCLE (são entregues às pacientes pela recepcionista e preenchidos antes da consulta):
 
     -   Questionário de impacto no assoalho pélvico (PFIQ-7)
 
@@ -43,64 +46,62 @@ Todos os formulários abaixo devem ser preenchidos na primeira consulta:
 
 Após inserir todos as informações no banco de dados, preencher o prontuário eletrônico (MV) com as informações importantes da consulta (lembrar que nem todos terão acesso ao REDCap, pois este é apenas para fins de pesquisa)
 
+## **Prolapso dos Órgãos Pélvicos (POP)**
 
+O POP é uma protusão, ou herniação, dos órgãos pélvicos através da vagina. Pode acometer um ou mais sítios da vagina e tecidos de sustentação. São divididos em:
 
+- Parede **anterior** da vagina (cistocele)
+- Parede **posterior** da vagina (retocele)
+- Compartimento **apical** (útero ou cúpula vaginal)
 
-Anamnese;
+**Obs:** Os termos *cistocele* e *retocele* não são utilizados no nosso ambulatório, porém são encontrados em diversos textos na literatura médica.
 
--   HPP;
+Os defeitos dos ligamentos e da fáscia foram descritos por Delancey[@delancey1992anatomie] e divididos em três níveis, de acordo com seu acometimento:
 
--   HGO;
+-	**Nível 1** - suporte do terço superior da vagina e do colo uterino pelo complexo ligamentar pericervical, principalmente pelos ligamentos uterossacros. 
+-	**Nível 2** - suporte lateral do canal vaginal com sua inserção no arco tendíneo da fáscia pélvica (ATFP) e no arco tendíneo do músculo levantador do ânus. 
+-	**Nível 3** - compreende as conexões entre as membranas perineais e as fáscias do corpo perineal que sustentam o terço distal da vagina. 
 
--   Exame físico; e
+## **Atendimento inicial**
 
--   Tratamento proposto.
+-   Anamnese
 
-#### **Pacientes com indicação cirúrgica**
+-   HPP
 
--   Solicitar exames pré-operatórios;
+-   HGO
 
--   Inserir na fila de cirurgias do serviço (*Google forms*);
+-   Exame físico
 
--   Explicar para a paciente os detalhes da cirurgia indicada e **entregar o consentimento informado** (a paciente deve levar para casa preenchido e assinado pelo médico, em duas vias, e trazer no dia da internação assinado).
+-   Tratamento proposto
 
-![](Figuras/Imagem1.png "Estímulo a doar sangue"){width="181" height="86"}
+### **Anamnese da paciente com POP**
 
-#### **Durante a internação cirúrgica**
+Alguns fatores podem melhorar o prolapso, como ficar deitada, outros podem piorar, como pegar peso.
 
-Verificar **se assinou o consentimento informado** (entregue durante a consulta do ambulatório) e anexar ao prontuário;
+### **Fatores de risco:**
+- **Demográficos**: idade e pós-menopausa
+- **Obstétricos**: paridade, parto vaginal e fórcipe
+- **Cirurgias pélvicas**: histerectomia, cirurgias prévias para prolapso, colpossuspensão
+- **Disfunção intestinal**: Constipação crônica, dificuldades na defecação
+- **Doenças do colágeno**: Síndrome de Marfan, Ehlers-Danlos
+- **Estilo de vida**: Obesidade, tabagismo (DPOC), exercícios de alto impacto (aumento da pressão abdominal), profissional (trabalho manual com peso excessivo)
+- **Genético**: História familiar, raça branca e asiática
 
-Pacientes submetidas a cirurgia (preencher no [REDCap](https://redcap.lampada.uerj.br)):
+## **Terminologia**
 
--   Formulário "Pós-operatório" (deve ser preenchido após a cirurgia e ainda durante a internação);
+Padronização de acordo com relatório conjunto da Associação Internacional de Uroginecologia (International Urogynecological Association -- IUGA) e Sociedade Internacional de Continência Iinternational Continence Society -- ICS), adotada em 2009.[@Haylen2010]
 
--   Preencher *Google forms* de cirurgias do serviço e dar baixa na planilha da fila de cirurgias.
+### **Sintomas Associados ao prolapso dos órgãos pélvicos**
 
-### **Revisão cirúrgica**
+1.  **Abaulamento vesical ("bola na vagina")**: sensação de prolapso na altura do intróito vaginal ou se exteriorizando por este, podendo ser percebido visualmente ou pela palpação da paciente;
 
--   Primeira revisão entre 20 e 30 dias (casos excepcionais devem ser avaliados individualmente);
+2.  **Pressão pélvica**: aumento da sensação de peso na área suprapúbica e/ou pélvica;
 
--   Verificar laudo histopatológico;
+3.  **Sangramento, secreção, infecção**: queixa de sangramento, secreção ou infecção relacionada à presença de ulceração no prolapso;
 
--   Orientar a pegar laudo histopatológico (se aplicável) 30 dias após a cirurgia;
+4.  **Apoio/digitação**: necessidade de reduzir digital ou manualmente o prolapso para auxiliar na micção; e
 
--   Revisão da cirurgia (preencher no REDCap e MV): devem ser preenchidas em 6, 12 e 24 meses após a cirurgia todas as informações abaixo:
-
-    -   Formulário no REDCap de Revisão da cirurgia; e
-
-    -   Reaplicar os questionários:
-
-        1.  de impacto no assoalho pélvico (PFIQ-7);
-
-        2.  de incontinência urinária (ICIQ-SF); e
-
-        3.  de qualidade do sono.
-
-### **Revisão clínica**
-
--   Reavaliar tratamento de acordo com a doença;
-
--   Caso seja indicada cirurgia, verificar se tem cadastro no REDCap. Caso positivo, atualizar dados; se negativo, inserir no banco como novo cadastro.
+5.  **Dor lombar**: Associação da dor ao aparecimento do prolapso.
 
 ### **Exame físico**
 
@@ -108,15 +109,15 @@ Queixas de incontinência urinária de esforço - fazer o teste da tosse em com 
 
 Avaliação de pacientes com prolapso:
 
--   Preferencialmente deitada, porém se não for evidenciado o prolapso, deve ser feito o exame a paciente em pé;
+-   Preferencialmente deitada, porém se não for evidenciado o prolapso, deve ser feito o exame a paciente em pé.
 
 -   Utilizar o **POP-Q**
 
-    -   Medir primeiro**: hiato genital e corpo perineal**;
+    - Medir primeiro: os pontos **Aa,Ba,C,Ap,Bp e D** (se aplicável) com a paciente realizando manobra de valsava
 
-    -   A seguir, os pontos **Aa,Ba,C, Ap, Bp,e D** (se aplicável) com a paciente realizando manobra de valsava; e
+    - A seguir, **hiato genital e corpo perineal**
 
-    -   Por fim, reduzir o prolapso e medir o **comprimento total da vagina**.
+    - Por fim, reduzir o prolapso e medir o **comprimento total da vagina**.
 
 ### **POP-Q**
 
@@ -124,9 +125,9 @@ Os prolapsos serão classificados de acordo com o *Pelvic Organ Quantification S
 
 ![Pontos e medidas do POP-Q; Fonte: Bump, 1996](Figuras/Figura_1.png)
 
-#### **Pontos do POP-Q**
+### **Pontos do POP-Q**
 
-**C:** Cérvix ou Colo; **GH:** Hiato Genital; **PB:** Corpo Perineal; **TVL:** Comprimento Vaginal Total; **D:** Fórnice vaginal posterior (ausente em mulheres histerectomizadas).
+**C:** Cérvix ou Colo; **HG:** Hiato Genital; **CP:** Corpo Perineal; **CTV:** Comprimento Vaginal Total; **D:** Fórnice vaginal posterior (ausente em mulheres histerectomizadas).
 
 Esse sistema utiliza o anel himenal como ponto fixo de referência, sendo este o **ponto *zero****.* Toda estrutura que se encontra acima (direção cranial - proximal), recebe um valor negativo e toda estrutura abaixo (caudal - distal) recebe valores positivos.
 
@@ -146,13 +147,13 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 **Bp**: Na parede posterior da vagina, configura-se o ponto mais distal desta, podendo variar do ponto Ap ao fórnix posterior da vagina. Por definição, na ausência de prolapso seu valor é -3.
 
-**GH (*genital hiatus*)**: Hiato genital, medida de valor absoluto, é medido tomando-se como referência o ponto central do meato uretral estendendo-se até a porção posterior do anel himenal ou início do corpo perineal, quando aquele não pode ser identificado.
+**HG (*genital hiatus*)**: Hiato genital, medida de valor absoluto, é medido tomando-se como referência o ponto central do meato uretral estendendo-se até a porção posterior do anel himenal ou início do corpo perineal, quando aquele não pode ser identificado.
 
-**PB (*perineal body*)**: Corpo perineal, medida também de valor absoluto, é aferido a partir do fim do hiato genital até a porção mediana do orifício anal.
+**CP (*perineal body*)**: Corpo perineal, medida também de valor absoluto, é aferido a partir do fim do hiato genital até a porção mediana do orifício anal.
 
-**TVL (*total vaginal length*)**: comprimento total da vagina, é a medida da maior profundidade da vagina em centímetros, após a redução do prolapso.
+**CTV (*total vaginal length*)**: comprimento total da vagina, é a medida da maior profundidade da vagina em centímetros, após a redução do prolapso.
 
-#### **Estadiamento dos prolapsos (POP-Q)**
+### **Estadiamento dos prolapsos (POP-Q)**
 
 | Estágio | Medidas do POP-Q                                                                                                      |
 |:-------:|:----------------------------------------------------------------------------------------------------------------------|
@@ -174,7 +175,7 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 \newpage
 
-#### **Avaliação funcional do assoalho pélvico**
+### **Avaliação funcional do assoalho pélvico**
 
 | Grau | Função                                                                  |
 |:----:|:------------------------------------------------------------------------|
@@ -184,158 +185,104 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 |  3   | Função objetiva e resistência opositora, não mantida à palpação         |
 |  4   | Função objetiva e resistência mantida à palpação por mais de 5 segundos |
 
-### **TERMINOLOGIA**
+### **Pacientes com indicação cirúrgica**
 
-Padronização de acordo com relatório conjunto da Associação Internacional de Uroginecologia (International Urogynecological Association -- IUGA) e Sociedade Internacional de Continência Iinternational Continence Society -- ICS), adotada em 2009.[@Haylen2010]
+-   Solicitar exames pré-operatórios (*atualmente os exames são solicitados quando chamamos a paciente para cirurgia*)
 
-#### **Sintomas de incontinência urinária**
+  - Sangue e urina:
+    - Hemograma
+    - Uréia e creatinina
+    - Na+ e K+
+    - Glicemia
+    - Hb glicada para DM
+    - EAS
+    - Cultura de urina
+    
+  - Imagens
+    - Rx tórax PA e perfil
+    - US de vias urinárias (prolapsos estágio IV)
+    - Estudo urodinâmico (situações especiais)
+    - Histeroscopia (sangramento uterino anormal ou espessamento endometrial)
+  
+  - Risco cirúrgico
 
-1.  **Incontinência urinária**: queixa de perda urinária involuntária;
+-   Inserir na fila de cirurgias do serviço (*Google forms*)
 
-2.  **Incontinência de esforço**: perda ocorre durante esforço físico e exercícios;
+-   Explicar para a paciente os detalhes da cirurgia indicada e entregar o **consentimento informado** (a paciente deve levar para casa preenchido e assinado pelo médico, em duas vias, e trazer no dia da internação assinado).
+    - **Obs:** Em caso de dúvidas, pode retornar ao ambulatório ou comparecer ao setor de Ginecologia.
 
-3.  **Incontinência por urgência:** quando associada à urgência;
+![](Figuras/Imagem1.png "Estímulo a doar sangue"){width="181" height="86"}
 
-4.  **Incontinência postural**: associada à mudança de posição;
 
-5.  **Enurese noturna**: perda involuntária durante o sono;
+### **Antes da internação cirúrgica**
 
-6.  **Incontinência mista**: associação de esforço e urgência;
+- Ligar para a paciente e verificar se tem exames em dia.
+- Caso não tenha, solicitar que comparece ao hospital para pegar o pedido de exames e marcar consulta pelo serviço de *Teleconsulta* do risco cirúrgico.
+- Os resultados serão enviados para o e-mail do serviço.
 
-7.  **Incontinência contínua**: perda contínua de urina;
+### **Durante a internação cirúrgica**
 
-8.  **Incontinência insensível**: a mulher não tem conhecimento de como ocorreu a perda; e
+- Verificar **se assinou o consentimento informado** (entregue durante a consulta do ambulatório) e anexar ao prontuário
 
-9.  **Incontinência durante o coito:** ocorre durante o coito.
+- Pacientes submetidas a cirurgia (preencher no [REDCap](https://redcap.lampada.uerj.br)):
 
-#### **Sintomas de armazenamento**
+  - Formulário "Pós-operatório" (deve ser preenchido após a cirurgia e ainda durante a internação);
 
-1.  **Aumento da frequência urinária diurna**: maior frequência na micção durante as horas de vigília que o padrão anterior;
+## **Tratamento cirúrgico para o prolapso genital**
 
-2.  **Noctúria**: Interrupção do sono devido à necessidade de urinar;
+***EM REVISÃO***
 
-3.  **Urgência:** súbito desejo imperioso de urinar, difícil de ser inibido; e
 
-4.  **Síndrome da bexiga hiperativa**: urgência geralmente acompanhada de frequência e noctúria, com ou sem incontinência, na ausência de infecção do trato urinário ou outra patologia evidente.
 
-#### **Sintomas miccionais**
 
-1.  **Hesitância**: atraso em iniciar a micção;
 
-2.  **Fluxo lento**: fluxo urinário mais lento em relação ao padrão prévio;
 
-3.  **Intermitência**: Interrupção do fluxo urinário durante a micção;
 
-4.  **Esforço para urinar**: necessidade de esforço para iniciar a micção;
 
-5.  **Sensação de esvaziamento incompleto**: sensação de resíduo urinário após a micção;
 
-6.  **Perda pós-miccional**: necessidade de urinar novamente após encerrada a micção;
 
-7.  **Disúria**: queixa de desconforto ou queimação durante a micção;
 
-8.  **Retenção**: incapacidade de urinar apesar de esforço persistente; e
+  
+### **Revisão cirúrgica**
 
-9.  **Estrangúria**: dor à micção e dificuldade de urinar.
+-   Primeira revisão entre 20 e 30 dias (casos excepcionais devem ser avaliados individualmente)
 
-#### **Sintomas Associados ao prolapso dos órgãos pélvicos**
+-   Verificar laudo histopatológico
 
-1.  **Abaulamento vesical ("bola na vagina")**: sensação de prolapso na altura do intróito vaginal ou se exteriorizando por este, podendo ser percebido visualmente ou pela palpação da paciente;
+-   Orientar a pegar laudo histopatológico (se aplicável) 30 dias após a cirurgia
 
-2.  **Pressão pélvica**: aumento da sensação de peso na área suprapúbica e/ou pélvica;
+-   Revisão da cirurgia (preencher no REDCap e MV): devem ser preenchidas em 6, 12 e 24 meses após a cirurgia todas as informações abaixo:
 
-3.  **Sangramento, secreção, infecção**: queixa de sangramento, secreção ou infecção relacionada à presença de ulceração no prolapso;
+    -   Formulário no REDCap de Revisão da cirurgia; e
 
-4.  **Apoio/digitação**: necessidade de reduzir digital ou manualmente o prolapso para auxiliar na micção; e
+    -   Reaplicar os questionários:
 
-5.  **Dor lombar**: Associação da dor ao aparecimento do prolapso.
+        1.  de impacto no assoalho pélvico (PFIQ-7)
 
-### **Propedêutica clínica da incontinência urinária**
+        2.  de incontinência urinária (ICIQ-SF)
 
--   Anamnese
+        3.  de qualidade do sono (ISI)
+        
+        4.  de função sexual na mulher (FSFI-6)
+        
+ 
+ 
+ 
+ 
+ 
+ 
+       
+        
 
--   Exame físico
+### **Revisão clínica**
 
--   Avaliação com questionário de qualidade de vida específico ("*International Consultation on Incontinence Questionnaire - Short Form*" ICIQ-SF)
+-   Reavaliar tratamento de acordo com a doença;
 
--   Diário miccional e verificação de resíduo pós-miccional poderão ser aplicados em casos específicos.
+-   Caso seja indicada cirurgia, verificar se tem cadastro no REDCap. Caso positivo, atualizar dados; se negativo, inserir no banco como novo cadastro.
 
--   Estudo Urodinâmico
 
-    1.  Prolapsos genitais associados a perda urinária (sinal ou sintoma);
 
-    2.  Falhas em terapias anteriores;
 
-    3.  Disfunção vesical neurogênica;
 
-    4.  Retenção urinária; e
-
-    5.  Queixas urinárias após cirurgias pélvicas.
-
--   Endoscopia
-
-    1.  Suspeita de patologia intra-vesical;
-
-    2.  Fístula vesico-vaginal;
-
-    3.  Dor e desconforto vesical.
-
--   Exames de Imagem
-
--   USG
-
-    1.  Suspeitade lesão intra-vesical ou cálculo urinário;
-
-    2.  Hematúria
-
-    3.  Massas pélvicas
-
-    4.  Sd. bexiga dolorosa
-
-    5.  Sd. obstrutiva
-
-    6.  Resíduo pós-miccional elevado ou obstrução à micção
-
-    7.  Prolapsos genitais estágio IV (POP-Q)
-
-    8.  Cirurgias conservadoras do útero
-
--   RNM
-
--   RX
-
--   Urotomografia
-
--   Outros Exames:
-
-    1.  EAS;
-
-    2.  Urocultura;
-
-    3.  Hemograma;
-
-    4.  Glicemia e Hb glicada (diabetes mellitus) ; e
-
-    5.  Uréia e creatinina.
-
-#### **Tratamento da Incontinência urinária**
-
-![Algorítimo de conduta na incontinência urinária](Figuras/Algor%C3%ADtimo_iu_ambulat%C3%B3rio.png){width="723" height="801"}
-
-#### **Principais agentes farmacológicos**
-
-1.  Cloridato de oxibutinina (Retemic®): dose 5 a 20 mg/dia;
-
-2.  Tartarato de tolterodine (Detrusitol®): dose 2 a 4 mg/dia;
-
-3.  Darifenacin (Enablex®): dose 7,5 a 15 mg/dia;
-
-4.  Solifenacin (Vesicare®): dose 5 a 10 mg/dia;
-
-5.  Imipramina: segunda linha de tratamento. Dose 10 a 25 mg, uma a três vezes/dia;
-
-6.  Amtrptilina: segunda linha. Dose 25 a 75 mg/dia;
-
-7.  Mirabegrona (Myrbetric®): 25 a 50 mg 1x/dia.
 
 ### **REFERÊNCIAS**

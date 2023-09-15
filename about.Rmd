@@ -14,10 +14,15 @@ Salas 14 e 15.
 
 **Endereço**: Boulevard Vinte e Oito de Setembro, 77 - Vila Isabel - RJ
 
-#### Objetivo
+### **ObjetivoS**
 
 **Assistencial**: diagnóstico e tratamento clínico ou cirúrgico.
 
 **Pesquisa**: estudos e projetos de pesquisa relacionados aos distúrbios do assoalho pélvico.
 
 **Ensino**: formação de alunos da graduação, residentes em ginecologia e urologia.
+
+
+## **Contato**
+
+email: ricardo.souza@hupe.uerj.br

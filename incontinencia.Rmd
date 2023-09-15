@@ -1,6 +1,6 @@
 ---
 title: "Rotinas no atendimento de mulheres com Disfunção Miccional"
-date: "versão 2023.2"
+date: "versão 2021.1"
 output:
   html_document:
     df_print: paged
@@ -16,3 +16,147 @@ csl: elsevier-vancouver.csl
 ---
 
 
+## **TERMINOLOGIA**
+
+Padronização de acordo com relatório conjunto da Associação Internacional de Uroginecologia (International Urogynecological Association -- IUGA) e Sociedade Internacional de Continência Iinternational Continence Society -- ICS), adotada em 2009.[@Haylen2010]
+
+#### **Sintomas de incontinência urinária**
+
+1.  **Incontinência urinária**: queixa de perda urinária involuntária;
+
+2.  **Incontinência de esforço**: perda ocorre durante esforço físico e exercícios;
+
+3.  **Incontinência por urgência:** quando associada à urgência;
+
+4.  **Incontinência postural**: associada à mudança de posição;
+
+5.  **Enurese noturna**: perda involuntária durante o sono;
+
+6.  **Incontinência mista**: associação de esforço e urgência;
+
+7.  **Incontinência contínua**: perda contínua de urina;
+
+8.  **Incontinência insensível**: a mulher não tem conhecimento de como ocorreu a perda; e
+
+9.  **Incontinência durante o coito:** ocorre durante o coito.
+
+#### **Sintomas de armazenamento**
+
+1.  **Aumento da frequência urinária diurna**: maior frequência na micção durante as horas de vigília que o padrão anterior;
+
+2.  **Noctúria**: Interrupção do sono devido à necessidade de urinar;
+
+3.  **Urgência:** súbito desejo imperioso de urinar, difícil de ser inibido; e
+
+4.  **Síndrome da bexiga hiperativa**: urgência geralmente acompanhada de frequência e noctúria, com ou sem incontinência, na ausência de infecção do trato urinário ou outra patologia evidente.
+
+#### **Sintomas miccionais**
+
+1.  **Hesitância**: atraso em iniciar a micção;
+
+2.  **Fluxo lento**: fluxo urinário mais lento em relação ao padrão prévio;
+
+3.  **Intermitência**: Interrupção do fluxo urinário durante a micção;
+
+4.  **Esforço para urinar**: necessidade de esforço para iniciar a micção;
+
+5.  **Sensação de esvaziamento incompleto**: sensação de resíduo urinário após a micção;
+
+6.  **Perda pós-miccional**: necessidade de urinar novamente após encerrada a micção;
+
+7.  **Disúria**: queixa de desconforto ou queimação durante a micção;
+
+8.  **Retenção**: incapacidade de urinar apesar de esforço persistente; e
+
+9.  **Estrangúria**: dor à micção e dificuldade de urinar.
+
+
+### **Propedêutica clínica da incontinência urinária**
+
+-   Anamnese
+
+-   Exame físico
+
+-   Avaliação com questionário de qualidade de vida específico ("*International Consultation on Incontinence Questionnaire - Short Form*" ICIQ-SF)
+
+-   Diário miccional e verificação de resíduo pós-miccional poderão ser aplicados em casos específicos.
+
+-   Estudo Urodinâmico
+
+    1.  Prolapsos genitais associados a perda urinária (sinal ou sintoma);
+
+    2.  Falhas em terapias anteriores;
+
+    3.  Disfunção vesical neurogênica;
+
+    4.  Retenção urinária; e
+
+    5.  Queixas urinárias após cirurgias pélvicas.
+
+-   Endoscopia
+
+    1.  Suspeita de patologia intra-vesical;
+
+    2.  Fístula vesico-vaginal;
+
+    3.  Dor e desconforto vesical.
+
+-   Exames de Imagem
+
+-   USG
+
+    1.  Suspeitade lesão intra-vesical ou cálculo urinário;
+
+    2.  Hematúria
+
+    3.  Massas pélvicas
+
+    4.  Sd. bexiga dolorosa
+
+    5.  Sd. obstrutiva
+
+    6.  Resíduo pós-miccional elevado ou obstrução à micção
+
+    7.  Prolapsos genitais estágio IV (POP-Q)
+
+    8.  Cirurgias conservadoras do útero
+
+-   RNM
+
+-   RX
+
+-   Urotomografia
+
+-   Outros Exames:
+
+    1.  EAS;
+
+    2.  Urocultura;
+
+    3.  Hemograma;
+
+    4.  Glicemia e Hb glicada (diabetes mellitus) ; e
+
+    5.  Uréia e creatinina.
+
+#### **Tratamento da Incontinência urinária**
+
+![Algorítimo de conduta na incontinência urinária](Figuras/Algor%C3%ADtimo_iu_ambulat%C3%B3rio.png){width="723" height="801"}
+
+#### **Principais agentes farmacológicos**
+
+1.  Cloridato de oxibutinina (Retemic®): dose 5 a 20 mg/dia;
+
+2.  Tartarato de tolterodine (Detrusitol®): dose 2 a 4 mg/dia;
+
+3.  Darifenacin (Enablex®): dose 7,5 a 15 mg/dia;
+
+4.  Solifenacin (Vesicare®): dose 5 a 10 mg/dia;
+
+5.  Imipramina: segunda linha de tratamento. Dose 10 a 25 mg, uma a três vezes/dia;
+
+6.  Amtrptilina: segunda linha. Dose 25 a 75 mg/dia;
+
+7.  Mirabegrona (Myrbetric®): 25 a 50 mg 1x/dia.
+
+### **REFERÊNCIAS**
