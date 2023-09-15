@@ -19,7 +19,7 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
-**Guia prático para Residentes, Pós-graduandos e internos do HUPE**
+**Guia prático para Residentes, Pós-graduandos e Internos do HUPE**
 
 ## **Ambulatório do HUPE**
 
