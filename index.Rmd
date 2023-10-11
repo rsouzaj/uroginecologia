@@ -19,7 +19,11 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
+<div style="margin-bottom: 30px;">
+
 **Guia prático para Residentes, Pós-graduandos e Internos do HUPE**
+
+</div>
 
 ## **Ambulatório do HUPE**
 
@@ -29,23 +33,23 @@ csl: elsevier-vancouver.csl
 
 -   Via SISREG ou SER (04 vagas)
 
--   Avaliação de pacientes que precisem de abordagem multidisciplinar que tenham diagnóstico de prolapso genital
+-   Avaliação através de encaminhamento interno de mulheres com prolapso genital que necessitem de tratamento multidisciplinar
 
-### **Perfil do paciente**
+### **Perfil da paciente**
 
--   Prolapso genital
+-   Mulher com prolapso genital
 
--   Dor pélvica crônica associada a sintomas urinários ou prolapsos
+-   Dor pélvica crônica associada a sintomas urinários ou prolapsos genitais
 
 ## **Ambulatório da Policlínica Piquet Carneiro**
 
 -   Atendimento no Núcleo de Disfunção Miccional
 
--   Atendimentos de mulheres com quaixas urinárias
+-   Atendimentos de mulheres com queixas urinárias
 
 -   Via SISREG ou SER
 
-### **Perfil do paciente**
+### **Perfil da paciente**
 
 -   Mulheres com incontinência urinária (sem prolapso genital)
 -   Infecções urinárias de repetição
