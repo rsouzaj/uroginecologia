@@ -21,7 +21,6 @@ Todas as pacientes com diagnóstico de **prolapso genital** são convidadas a pa
 
 Durante o atendimento, os dados da consulta e da pesquisa são inseridos na **plataforma REDCap**, através do link: [REDCap](https://redcap.lampada.uerj.br) e cadastrar no projeto **ImPOP**.
 
-
 ### **Formulários**
 
 Todos os formulários abaixo devem ser preenchidos na primeira consulta:
@@ -41,7 +40,7 @@ Todos os formulários abaixo devem ser preenchidos na primeira consulta:
     -   Questionário de incontinência urinária (ICIQ-SF)
 
     -   Questionário de qualidade do sono (ISI e/ou Pittsburgh)
-    
+
     -   Questionário de função sexual na mulher (FSFI-6)
 
 Após inserir todos as informações no banco de dados, preencher o prontuário eletrônico (MV) com as informações importantes da consulta (lembrar que nem todos terão acesso ao REDCap, pois este é apenas para fins de pesquisa)
@@ -50,17 +49,17 @@ Após inserir todos as informações no banco de dados, preencher o prontuário 
 
 O POP é uma protusão, ou herniação, dos órgãos pélvicos através da vagina. Pode acometer um ou mais sítios da vagina e tecidos de sustentação. São divididos em:
 
-- Parede **anterior** da vagina (cistocele)
-- Parede **posterior** da vagina (retocele)
-- Compartimento **apical** (útero ou cúpula vaginal)
+-   Parede **anterior** da vagina (cistocele)
+-   Parede **posterior** da vagina (retocele)
+-   Compartimento **apical** (útero ou cúpula vaginal)
 
 **Obs:** Os termos *cistocele* e *retocele* não são utilizados no nosso ambulatório, porém são encontrados em diversos textos na literatura médica.
 
 Os defeitos dos ligamentos e da fáscia foram descritos por Delancey[@delancey1992anatomie] e divididos em três níveis, de acordo com seu acometimento:
 
--	**Nível 1** - suporte do terço superior da vagina e do colo uterino pelo complexo ligamentar pericervical, principalmente pelos ligamentos uterossacros. 
--	**Nível 2** - suporte lateral do canal vaginal com sua inserção no arco tendíneo da fáscia pélvica (ATFP) e no arco tendíneo do músculo levantador do ânus. 
--	**Nível 3** - compreende as conexões entre as membranas perineais e as fáscias do corpo perineal que sustentam o terço distal da vagina. 
+-   **Nível 1** - suporte do terço superior da vagina e do colo uterino pelo complexo ligamentar pericervical, principalmente pelos ligamentos uterossacros.
+-   **Nível 2** - suporte lateral do canal vaginal com sua inserção no arco tendíneo da fáscia pélvica (ATFP) e no arco tendíneo do músculo levantador do ânus.
+-   **Nível 3** - compreende as conexões entre as membranas perineais e as fáscias do corpo perineal que sustentam o terço distal da vagina.
 
 ## **Atendimento inicial**
 
@@ -79,13 +78,14 @@ Os defeitos dos ligamentos e da fáscia foram descritos por Delancey[@delancey19
 Alguns fatores podem melhorar o prolapso, como ficar deitada, outros podem piorar, como pegar peso.
 
 ### **Fatores de risco:**
-- **Demográficos**: idade e pós-menopausa
-- **Obstétricos**: paridade, parto vaginal e fórcipe
-- **Cirurgias pélvicas**: histerectomia, cirurgias prévias para prolapso, colpossuspensão
-- **Disfunção intestinal**: Constipação crônica, dificuldades na defecação
-- **Doenças do colágeno**: Síndrome de Marfan, Ehlers-Danlos
-- **Estilo de vida**: Obesidade, tabagismo (DPOC), exercícios de alto impacto (aumento da pressão abdominal), profissional (trabalho manual com peso excessivo)
-- **Genético**: História familiar, raça branca e asiática
+
+-   **Demográficos**: idade e pós-menopausa
+-   **Obstétricos**: paridade, parto vaginal e fórcipe
+-   **Cirurgias pélvicas**: histerectomia, cirurgias prévias para prolapso, colpossuspensão
+-   **Disfunção intestinal**: Constipação crônica, dificuldades na defecação
+-   **Doenças do colágeno**: Síndrome de Marfan, Ehlers-Danlos
+-   **Estilo de vida**: Obesidade, tabagismo (DPOC), exercícios de alto impacto (aumento da pressão abdominal), profissional (trabalho manual com peso excessivo)
+-   **Genético**: História familiar, raça branca e asiática
 
 ## **Terminologia**
 
@@ -113,17 +113,17 @@ Avaliação de pacientes com prolapso:
 
 -   Utilizar o **POP-Q**
 
-    - Medir primeiro: os pontos **Aa,Ba,C,Ap,Bp e D** (se aplicável) com a paciente realizando manobra de valsava
+    -   Medir primeiro: os pontos **Aa,Ba,C,Ap,Bp e D** (se aplicável) com a paciente realizando manobra de valsava
 
-    - A seguir, **hiato genital e corpo perineal**
+    -   A seguir, **hiato genital e corpo perineal**
 
-    - Por fim, reduzir o prolapso e medir o **comprimento total da vagina**.
+    -   Por fim, reduzir o prolapso e medir o **comprimento total da vagina**.
 
 ### **POP-Q**
 
 Os prolapsos serão classificados de acordo com o *Pelvic Organ Quantification System* (POP-Q), sistema padronizado adotado pelos membros da ICS, *American Urogynecology Society* (AUGUS) e da *Society of Gynecologic Surgeons* (SGS).[@Madhu2018; @Bump1996]
 
-![Pontos e medidas do POP-Q; Fonte: Bump, 1996](Figuras/Figura_1.png)
+![Pontos e medidas do POP-Q; Fonte: Bump, 1996](Figuras/Figura_1.png){width="403"}
 
 ### **Pontos do POP-Q**
 
@@ -156,7 +156,7 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 ### **Estadiamento dos prolapsos (POP-Q)**
 
 | Estágio | Medidas do POP-Q                                                                                                      |
-|:-------:|:----------------------------------------------------------------------------------------------------------------------|
+|:-----------:|:----------------------------------------------------------|
 |  ZERO   | Ausência de prolapso                                                                                                  |
 |    I    | Quando a medida está 1 cm ou mais acima do anel himenal                                                               |
 |   II    | Quando a medida está entre 1 cm acima e 1 cm abaixo do anel himenal                                                   |
@@ -178,7 +178,7 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 ### **Avaliação funcional do assoalho pélvico**
 
 | Grau | Função                                                                  |
-|:----:|:------------------------------------------------------------------------|
+|:-----------:|:----------------------------------------------------------|
 | ZERO | Sem função, nem mesmo à palpação                                        |
 |  1   | Função objetiva ausente, reconhecida somente à palpação                 |
 |  2   | Função objetiva débil, reconhecida à palpação                           |
@@ -189,60 +189,51 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
 
 -   Solicitar exames pré-operatórios (*atualmente os exames são solicitados quando chamamos a paciente para cirurgia*)
 
-  - Sangue e urina:
-    - Hemograma
-    - Uréia e creatinina
-    - Na+ e K+
-    - Glicemia
-    - Hb glicada para DM
-    - EAS
-    - Cultura de urina
-    
-  - Imagens
-    - Rx tórax PA e perfil
-    - US de vias urinárias (prolapsos estágio IV)
-    - Estudo urodinâmico (situações especiais)
-    - Histeroscopia (sangramento uterino anormal ou espessamento endometrial)
-  
-  - Risco cirúrgico
+-   Sangue e urina:
+
+    -   Hemograma
+    -   Uréia e creatinina
+    -   Na+ e K+
+    -   Glicemia
+    -   Hb glicada para DM
+    -   EAS
+    -   Cultura de urina
+
+-   Imagens
+
+    -   Rx tórax PA e perfil
+    -   US de vias urinárias (prolapsos estágio IV)
+    -   Estudo urodinâmico (situações especiais)
+    -   Histeroscopia (sangramento uterino anormal ou espessamento endometrial)
+
+-   Risco cirúrgico
 
 -   Inserir na fila de cirurgias do serviço (*Google forms*)
 
 -   Explicar para a paciente os detalhes da cirurgia indicada e entregar o **consentimento informado** (a paciente deve levar para casa preenchido e assinado pelo médico, em duas vias, e trazer no dia da internação assinado).
-    - **Obs:** Em caso de dúvidas, pode retornar ao ambulatório ou comparecer ao setor de Ginecologia.
 
-![](Figuras/Imagem1.png "Estímulo a doar sangue"){width="181" height="86"}
+    -   **Obs:** Em caso de dúvidas, pode retornar ao ambulatório ou comparecer ao setor de Ginecologia.
 
+![](Figuras/Imagem1.png "Estímulo a doar sangue"){width="288" height="124"}
 
 ### **Antes da internação cirúrgica**
 
-- Ligar para a paciente e verificar se tem exames em dia.
-- Caso não tenha, solicitar que comparece ao hospital para pegar o pedido de exames e marcar consulta pelo serviço de *Teleconsulta* do risco cirúrgico.
-- Os resultados serão enviados para o e-mail do serviço.
+-   Ligar para a paciente e verificar se tem exames em dia.
+-   Caso não tenha, solicitar que comparece ao hospital para pegar o pedido de exames e marcar consulta pelo serviço de *Teleconsulta* do risco cirúrgico.
+-   Os resultados serão enviados para o e-mail do serviço.
 
 ### **Durante a internação cirúrgica**
 
-- Verificar **se assinou o consentimento informado** (entregue durante a consulta do ambulatório) e anexar ao prontuário
+-   Verificar **se assinou o consentimento informado** (entregue durante a consulta do ambulatório) e anexar ao prontuário
 
-- Pacientes submetidas a cirurgia (preencher no [REDCap](https://redcap.lampada.uerj.br)):
+-   Pacientes submetidas a cirurgia (preencher no [REDCap](https://redcap.lampada.uerj.br)):
 
-  - Formulário "Pós-operatório" (deve ser preenchido após a cirurgia e ainda durante a internação);
+    -   Formulário "Pós-operatório" (deve ser preenchido após a cirurgia e ainda durante a internação);
 
 ## **Tratamento cirúrgico para o prolapso genital**
 
 ***EM REVISÃO***
 
-
-
-
-
-
-
-
-
-
-
-  
 ### **Revisão cirúrgica**
 
 -   Primeira revisão entre 20 e 30 dias (casos excepcionais devem ser avaliados individualmente)
@@ -262,27 +253,13 @@ Obs: Esse ponto tem importância na diferenciação entre o alongamento hipertr�
         2.  de incontinência urinária (ICIQ-SF)
 
         3.  de qualidade do sono (ISI)
-        
+
         4.  de função sexual na mulher (FSFI-6)
-        
- 
- 
- 
- 
- 
- 
-       
-        
 
 ### **Revisão clínica**
 
 -   Reavaliar tratamento de acordo com a doença;
 
 -   Caso seja indicada cirurgia, verificar se tem cadastro no REDCap. Caso positivo, atualizar dados; se negativo, inserir no banco como novo cadastro.
-
-
-
-
-
 
 ### **REFERÊNCIAS**

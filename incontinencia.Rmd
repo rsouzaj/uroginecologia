@@ -1,6 +1,6 @@
 ---
 title: "Rotinas no atendimento de mulheres com Disfunção Miccional"
-date: "versão 2021.1"
+date: "versão 2023.2"
 output:
   html_document:
     df_print: paged
@@ -14,7 +14,6 @@ link-citations: yes
 bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
-
 
 ## **TERMINOLOGIA**
 
@@ -69,6 +68,39 @@ Padronização de acordo com relatório conjunto da Associação Internacional d
 8.  **Retenção**: incapacidade de urinar apesar de esforço persistente; e
 
 9.  **Estrangúria**: dor à micção e dificuldade de urinar.
+
+### **Bases anatômicas para o mecanismo de armazenamento e micção**
+
+O modelo da figura resume as bases anatômicas para o mecanismo de abertura ou fechamento da uretra.
+
+O sistema apresenta o fechamento normal da uretra.
+
+O controle cortical recebe impulsos nervosos desencadeados pelos receptores de estiramento "N", situados no trígono vesical, através fibras nervosas aferentes. Quando necessário, o córtex ativa o mecanismo de micção. Periféricamente, o controle é feito pelo mecanismo músculo-elástico que responde aos estímulos corticais através das fibras eferentes. Veja a referência para melhor compreensão. [@petros2022anatomical]
+
+
+
+<div style="margin-bottom: 30px;">
+
+![**Modelo do controle central e periférico da micção/armazenamento**; FONTE: Petros, 2022.](images/mecanismo_continencia.jpg){width="750"}
+
+</div>
+
+
+
+
+<div style="margin-bottom: 30px;">
+
+Vários sintomas estão associados às lesões anatômicas. A figura abaixo resume os sintomas de acordo com o compartimento ou ligamento afetado.
+
+
+
+
+
+![**Algoritmo diagnóstico:** ligamento pubo-uretral (PUL); arco tendineo da fáscia pélvica (ATFP); ligamento cardinal (CL); ligamento uterossacro (USL); corpo perineal (PB); FONTE: Petros, 2022.](Figuras/algoritmo_sintomas.png){width="750"}
+
+</div>
+
+
 
 
 ### **Propedêutica clínica da incontinência urinária**
@@ -141,7 +173,13 @@ Padronização de acordo com relatório conjunto da Associação Internacional d
 
 #### **Tratamento da Incontinência urinária**
 
+
+<div style="margin-bottom: 30px;">
+
 ![Algorítimo de conduta na incontinência urinária](Figuras/Algor%C3%ADtimo_iu_ambulat%C3%B3rio.png){width="723" height="801"}
+
+</div>
+
 
 #### **Principais agentes farmacológicos**
 
