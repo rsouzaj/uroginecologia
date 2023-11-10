@@ -19,7 +19,7 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
-<div style="margin-bottom: 30px;">
+</div>
 
 **Guia prático para Residentes, Pós-graduandos e Internos do HUPE**
 
@@ -35,7 +35,7 @@ csl: elsevier-vancouver.csl
 
 -   Avaliação através de encaminhamento interno de mulheres com prolapso genital que necessitem de tratamento multidisciplinar
 
-### **Perfil da paciente**
+#### **Perfil da paciente**
 
 -   Mulher com prolapso genital
 
@@ -49,7 +49,7 @@ csl: elsevier-vancouver.csl
 
 -   Via SISREG ou SER
 
-### **Perfil da paciente**
+#### **Perfil da paciente**
 
 -   Mulheres com incontinência urinária (sem prolapso genital)
 -   Infecções urinárias de repetição
