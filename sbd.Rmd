@@ -15,7 +15,7 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
-A síndrome da bexiga dolorosa (SBD) é uma doença crônica cujos sintomas duram mais de 6 semanas com exame de urina normal e cultura negativa.
+A síndrome da bexiga dolorosa (SBD) ou cistite intersticial, como era cohecida antes, é uma doença crônica cujos sintomas duram mais de 6 semanas com exame de urina normal e cultura negativa.
 
 **Devemos caracterizar:**
 
