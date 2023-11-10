@@ -8,6 +8,8 @@ navbar:
       href: prolapso.html
     - text: "Disfunção Miccional"
       href: incontinencia.html
+    - text: "Síndrome da Bexiga Dolorosa"
+      href: sbd.html
     - text: "Pesquisa"
       href: pesquisa.html
     - text: "Sobre"
