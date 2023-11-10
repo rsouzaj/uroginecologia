@@ -39,7 +39,11 @@ A **cistoscopia** é idealmente realizada sob anestesia geral e a maioria dos pa
 
 A avalição e o tratamento seguem o algoritmo das figuras abaixo, de maneira geral.[@clemens2022diagnosis]
 
+<div style="margin-bottom: 30px;">
+
 ![Algorítmo de avaliação de muleres com suspeita de SBD; Fonte: Clemens, 2022](Figuras/SBD_1.png)
+
+<div style="margin-bottom: 30px;">
 
 ![Fonte, Clemens, 2022](Figuras/SBD_2.png)
 
