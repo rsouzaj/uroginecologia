@@ -21,7 +21,7 @@ csl: elsevier-vancouver.csl
 
 </div>
 
-**Guia prático para Residentes, Pós-graduandos e Internos do HUPE**
+### **Guia prático para Residentes, Pós-graduandos e Internos do HUPE**
 
 </div>
 
