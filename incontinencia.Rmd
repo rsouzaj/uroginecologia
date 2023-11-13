@@ -75,7 +75,7 @@ O modelo da figura resume as bases anatômicas para o mecanismo de abertura ou f
 
 O sistema apresenta o fechamento normal da uretra.
 
-O controle cortical recebe impulsos nervosos desencadeados pelos receptores de estiramento "N", situados no trígono vesical, através fibras nervosas aferentes. Quando necessário, o córtex ativa o mecanismo de micção. Periféricamente, o controle é feito pelo mecanismo músculo-elástico que responde aos estímulos corticais através das fibras eferentes. Veja a referência para melhor compreensão. [@petros2022anatomical]
+O controle cortical recebe impulsos nervosos desencadeados pelos receptores de estiramento "N", situados no trígono vesical, através fibras nervosas aferentes. Quando necessário, o córtex ativa o mecanismo de micção. Perifericamente, o controle é feito pelo mecanismo músculo-elástico que responde aos estímulos corticais através das fibras eferentes. Veja a referência para melhor compreensão. [@petros2022anatomical]
 
 
 
