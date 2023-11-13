@@ -19,11 +19,11 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
-</div>
+
 
 ### **Guia prático para Residentes, Pós-graduandos e Internos do HUPE**
 
-</div>
+
 
 ## **Ambulatório do HUPE**
 
