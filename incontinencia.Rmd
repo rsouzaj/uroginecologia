@@ -81,7 +81,7 @@ O controle cortical recebe impulsos nervosos desencadeados pelos receptores de e
 
 <div style="margin-bottom: 30px;">
 
-![**Modelo do controle central e periférico da micção/armazenamento**; FONTE: Petros, 2022.](images/mecanismo_continencia.jpg){width="750"}
+![**Modelo do controle central e periférico da micção/armazenamento**; FONTE: adaptado de Petros, 2022.](images/mecanismo_continencia.jpg){width="750"}
 
 </div>
 
@@ -96,7 +96,7 @@ Vários sintomas estão associados às lesões anatômicas. A figura abaixo resu
 
 
 
-![**Algoritmo diagnóstico:** ligamento pubo-uretral (PUL); arco tendineo da fáscia pélvica (ATFP); ligamento cardinal (CL); ligamento uterossacro (USL); corpo perineal (PB); FONTE: Petros, 2022.](Figuras/algoritmo_sintomas.png){width="750"}
+![**Algoritmo diagnóstico:** ligamento pubo-uretral (PUL); arco tendineo da fáscia pélvica (ATFP); ligamento cardinal (CL); ligamento uterossacro (USL); corpo perineal (PB); FONTE: adaptado de Petros, 2022.](Figuras/algoritmo_sintomas.png){width="750"}
 
 </div>
 

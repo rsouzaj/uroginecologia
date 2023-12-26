@@ -15,4 +15,36 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 ---
 
-***EM REVISÃO***
+
+## Prolapsos genitais
+
+Pesquisas realizadas no Hospital Universitário Pedro Ernesto
+
+* Prevalência
+* Associação com incontinência urinária
+* Fatores de risco
+* Comorbidades associadas
+* Relação com qualidade de vida
+* Relação com atividade sexual
+* Opções terapêuticas
+* Recidivas
+
+## Incontinência urinária
+
+Pesquisas realizadas na Policlínica Piquet Carneiro, no Núcleo de Disfunção Miccional
+
+* Incontinência urinária e qualidade de vida
+* Tipos de incontinência e prevalência
+* Associação com atividade sexual
+* Opções terapêuticas
+* Falhas no tratamento e recidivas
+
+## Síndrome da Bexiga Dolorosa
+
+* Prevalência
+* Características
+* Diagnóstico
+* Fenótipos
+* Tratamento e falhas terapêuticas
+* Opções terapêuticas
+* Terapias promissoras
